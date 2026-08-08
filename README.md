@@ -21,4 +21,20 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/laxmimusande4004-blip/Leethcode/tree/master/0231-power-of-two) |
+## String
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/laxmimusande4004-blip/Leethcode/tree/master/0402-remove-k-digits) |
+## Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/laxmimusande4004-blip/Leethcode/tree/master/0402-remove-k-digits) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/laxmimusande4004-blip/Leethcode/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/laxmimusande4004-blip/Leethcode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
