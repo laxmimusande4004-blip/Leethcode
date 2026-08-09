@@ -24,6 +24,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/laxmimusande4004-blip/Leethcode/tree/master/0022-generate-parentheses) |
 | [0402-remove-k-digits](https://github.com/laxmimusande4004-blip/Leethcode/tree/master/0402-remove-k-digits) |
 ## Stack
 |  |
@@ -37,4 +38,16 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/laxmimusande4004-blip/Leethcode/tree/master/0402-remove-k-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/laxmimusande4004-blip/Leethcode/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/laxmimusande4004-blip/Leethcode/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/laxmimusande4004-blip/Leethcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
