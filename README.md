@@ -50,4 +50,12 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/laxmimusande4004-blip/Leethcode/tree/master/0022-generate-parentheses) |
+## Array
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/laxmimusande4004-blip/Leethcode/tree/master/0540-single-element-in-a-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/laxmimusande4004-blip/Leethcode/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
