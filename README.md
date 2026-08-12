@@ -10,6 +10,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/laxmimusande4004-blip/Leethcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/laxmimusande4004-blip/Leethcode/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/laxmimusande4004-blip/Leethcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/laxmimusande4004-blip/Leethcode/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
@@ -53,9 +54,30 @@
 ## Array
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/laxmimusande4004-blip/Leethcode/tree/master/0204-count-primes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/laxmimusande4004-blip/Leethcode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/laxmimusande4004-blip/Leethcode/tree/master/0540-single-element-in-a-sorted-array) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/laxmimusande4004-blip/Leethcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/laxmimusande4004-blip/Leethcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/laxmimusande4004-blip/Leethcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/laxmimusande4004-blip/Leethcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/laxmimusande4004-blip/Leethcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
