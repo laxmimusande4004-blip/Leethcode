@@ -56,10 +56,12 @@
 | ------- |
 | [0204-count-primes](https://github.com/laxmimusande4004-blip/Leethcode/tree/master/0204-count-primes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/laxmimusande4004-blip/Leethcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/laxmimusande4004-blip/Leethcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/laxmimusande4004-blip/Leethcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/laxmimusande4004-blip/Leethcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Enumeration
 |  |
 | ------- |
@@ -80,4 +82,12 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/laxmimusande4004-blip/Leethcode/tree/master/0204-count-primes) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/laxmimusande4004-blip/Leethcode/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/laxmimusande4004-blip/Leethcode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
