@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/laxmimusande4004-blip/Leethcode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/laxmimusande4004-blip/Leethcode/tree/master/0053-maximum-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/laxmimusande4004-blip/Leethcode/tree/master/0053-maximum-subarray) |
 | [0204-count-primes](https://github.com/laxmimusande4004-blip/Leethcode/tree/master/0204-count-primes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/laxmimusande4004-blip/Leethcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/laxmimusande4004-blip/Leethcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -90,4 +92,8 @@
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/laxmimusande4004-blip/Leethcode/tree/master/1004-max-consecutive-ones-iii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/laxmimusande4004-blip/Leethcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
